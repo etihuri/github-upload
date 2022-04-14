@@ -1,0 +1,5 @@
+2022-01-22 15:14:59,498 - carSricpt_app - INFO - read car from website successfully
+2022-01-22 15:14:59,507 - carSricpt_app - INFO - read car from csv successfully
+2022-01-22 15:14:59,520 - carSricpt_app - INFO - write new cars to csv from website successfully
+2022-01-22 15:15:01,390 - carSricpt_app - INFO - email send successfully
+2022-01-22 15:15:01,390 - carSricpt_app - INFO - Done
